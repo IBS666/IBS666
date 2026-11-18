@@ -25,7 +25,7 @@
 
 
 
-<p><img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,react,angular,spring,dotnet,fastapi,postgres,mysql,mongodb,oracle,git,github,docker,linux,postman,githubactions" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,python,cs,html,css,js,ts,react,angular,spring,dotnet,fastapi,postgres,mysql,mongodb,git,github,docker,linux,postman,githubactions,intellig,vscode" /></p>
 
 
 
